@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Monarch38108
 - 👀 I’m interested in Full-Stack development
 - 🌱 I’m currently learning to shut up in the correct moments and some Go.
-- 💞️ I’m looking to collaborate on mostly stoff wich is driveng me insane afterwards
+- 💞️ I’m looking to collaborate on stuff wich is driving me insane afterwards
 - 📫 How to reach me: instagram.com/tim.kapitza
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have deprtessions
